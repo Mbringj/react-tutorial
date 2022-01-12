@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
-
+import { WelcomeDialog } from './components/Heritage'
+import { Apps } from './components/Heritage';
 class ToogleComponent extends React.Component {
   constructor(props) {
     super(props);
@@ -40,6 +41,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <ToogleComponent />
+        <WelcomeDialog />
+        <Apps />
       </header>
     </div>
   );

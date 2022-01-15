@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import { WelcomeDialog } from './components/Heritage'
 import { Apps } from './components/Heritage';
+import {Button} from './style/button';
 class ToogleComponent extends React.Component {
   constructor(props) {
     super(props);
@@ -22,9 +23,13 @@ class ToogleComponent extends React.Component {
     const listName = ["mbring", "jeremie", "fouba", "fabrice","mahimi"]
     return (
       <div>
+      <Button primary="blue">button styled</Button>
+      <Button>
         <button onClick={this.setToogle}>
           {this.state.isToggle ? 'ON':'OF'}
         </button>
+      </Button>
+      
         <div>
           <ul>
             {this.state.isToggle && listName.map(list => <li key={list}>{list}</li>)}  

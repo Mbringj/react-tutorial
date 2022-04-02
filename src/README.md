@@ -6,3 +6,5 @@
 3 - [110% Complete JWT Authentication with Django & React - 2020](https://hackernoon.com/110percent-complete-jwt-authentication-with-django-and-react-2020-iejq34ta)
 
 4 - [How To Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
+
+5 - [Integrating Django APIs with a React frontend: a real use case](https://inmagik.com/en/blog/django-rest-and-react)

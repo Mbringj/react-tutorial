@@ -8,3 +8,9 @@
 4 - [How To Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 
 5 - [Integrating Django APIs with a React frontend: a real use case](https://inmagik.com/en/blog/django-rest-and-react)
+
+6 - [React Token Based Authentication to Django REST API Backend](https://saasitive.com/tutorial/react-token-based-authentication-django/)
+
+7 - [Building a React.js Application using Django REST Framework](https://www.section.io/engineering-education/react-and-django-rest-framework/)
+
+8 - [Making React and Django play well together - the “hybrid app” model](https://fractalideas.com/blog/making-react-and-django-play-well-together-hybrid-app-model/)

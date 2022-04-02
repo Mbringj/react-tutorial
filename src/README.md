@@ -14,3 +14,15 @@
 7 - [Building a React.js Application using Django REST Framework](https://www.section.io/engineering-education/react-and-django-rest-framework/)
 
 8 - [Making React and Django play well together - the “hybrid app” model](https://fractalideas.com/blog/making-react-and-django-play-well-together-hybrid-app-model/)
+
+9 - [How to Build a Django and React CRUD Application](https://ordinarycoders.com/blog/article/django-react-crud-application)
+
+10 - [React Social Authentication using Djoser and Django](https://www.section.io/engineering-education/social-authentication-with-djoser-in-react-applications/)
+
+11 - [Google Authentication (Signup, Login, Continue) With Django Allauth, Django Rest Auth, React JS (Web), and React Native (iOS and Android)](https://blog.ryandinath.io/google-authentication-with-django-allauth-and-react/)
+
+12 - [Authentication with Django and Single Page Apps](https://www.mikesukmanowsky.com/blog/authentication-with-django-and-spas)
+
+13 - [Google OAuth2 with Django REST Framework & React: Part 1](https://www.hacksoft.io/blog/google-oauth2-with-django-react-part-1)
+
+14 - [Google OAuth2 with Django REST Framework & React: Part 2](https://www.hacksoft.io/blog/google-oauth2-with-django-react-part-2)
